@@ -4,7 +4,7 @@ import pandas as pd
 import time
 import os
 
-cwd = os.getcwd（）
+cwd = os.getcwd
 st.title(cwde)
 
 # progress_bar = st.sidebar.progress(0)
