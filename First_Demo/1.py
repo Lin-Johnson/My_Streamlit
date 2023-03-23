@@ -5,7 +5,7 @@ import time
 import os
 
 cwd = os.getcwd
-st.title(cwde)
+st.title(cwd)
 
 # progress_bar = st.sidebar.progress(0)
 # status_text = st.sidebar.empty()
